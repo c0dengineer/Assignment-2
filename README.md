@@ -1,7 +1,7 @@
 # Assignment-2
 Task-1 : Check if a Number is Even or Odd.
 
-First it takes the integer from the user. Using if-else statement it checks whether the number is even or odd. Test Expression of if statement is (a%2 == 0). This expression means if a is divided by 2 reminder is 0. It is for even condition. When this condition become false then odd condition will execute.
+First it takes a integer from the user. Using if-else statement it checks whether the number is even or odd. Test Expression of if statement is (a%2 == 0). This expression means if 'a' is divided by 2 reminder is 0. It is for even condition. When this condition become false then odd condition will execute.
 
 
 Task 2 : Sum of Integers from 1 to 50 Using a Loop.
